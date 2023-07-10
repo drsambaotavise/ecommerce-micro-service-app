@@ -15,7 +15,7 @@ You will need Docker installed on your machine. You can download Docker [here](h
 First, clone this repository onto your local machine by using the following command:
 
 ```
-git clone https://github.com/cvamsikrishna11/ecommerce-micro-service-app.git
+git clone https://github.com/drsambaotavise/ecommerce-micro-service-app.git
 ```
 
 ### Navigate to the Directory
